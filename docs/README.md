@@ -26,8 +26,7 @@ Welcome to the LazorKit Passkey Login Flow documentation! This documentation is 
 
 Check out the [examples directory](../examples/) for environment-specific setup guides:
 
-- **[Next.js App Router](../examples/nextjs-app-router/)** - Setup for Next.js 13+ App Router
-- **[Next.js Pages Router](../examples/nextjs-pages-router/)** - Setup for traditional Next.js Pages Router
+- **[Passkey Based Wallet Integration ExampleKit](./examples/passkey_login_example_app.md)** - step by step tutorial on how to create a passkey-based wallet
 
 ## Quick Links
 

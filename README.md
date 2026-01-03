@@ -42,9 +42,7 @@ Visit [http://localhost:3000](http://localhost:3000) to see the passkey authenti
 
 Environment-specific examples with polyfills and configurations:
 
-- **[Next.js App Router](./examples/nextjs-app-router/)** - Next.js 13+ App Router setup
-- **[Next.js Pages Router](./examples/nextjs-pages-router/)** - Traditional Next.js Pages Router setup
-
+- **[Passkey Based Wallet Integration ExampleKit](./examples/passkey_login_example_app.md)** - step by step tutorial on how to create a passkey-based wallet
 ## Project Structure
 
 ```
