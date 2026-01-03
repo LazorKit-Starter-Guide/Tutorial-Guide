@@ -1,3 +1,13 @@
+/**
+ * Button Component
+ * 
+ * A versatile button component with multiple variants and sizes.
+ * Built on top of Radix UI's Slot component for composition flexibility.
+ * 
+ * Variants: default, destructive, outline, secondary, ghost, link
+ * Sizes: default, sm, lg, icon, icon-sm, icon-lg
+ */
+
 import * as React from "react"
 import { Slot } from "@radix-ui/react-slot"
 import { cva, type VariantProps } from "class-variance-authority"

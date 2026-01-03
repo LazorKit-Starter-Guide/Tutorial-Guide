@@ -1,3 +1,19 @@
+/**
+ * Card Component
+ * 
+ * A flexible card component with header, content, footer, and action sections.
+ * Used throughout the application for consistent content containers.
+ * 
+ * Sub-components:
+ * - Card: Main container
+ * - CardHeader: Header section with title and description
+ * - CardTitle: Title text
+ * - CardDescription: Description text
+ * - CardContent: Main content area
+ * - CardFooter: Footer section
+ * - CardAction: Action button area (positioned in header)
+ */
+
 import * as React from "react"
 
 import { cn } from "@/lib/utils"

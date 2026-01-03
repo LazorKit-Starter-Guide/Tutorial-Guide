@@ -14,7 +14,7 @@
  */
 
 import { LazorkitProvider } from "@lazorkit/wallet";
-import { PasskeyAuthFlow } from "../components/passkey_auth_folow";
+import { PasskeyAuthFlow } from "../components/passkey_auth_flow";
 
 // LazorKit configuration object
 // For production, consider moving these to environment variables
