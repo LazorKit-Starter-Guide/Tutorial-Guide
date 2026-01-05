@@ -68,7 +68,18 @@ npm run dev
 Install LazorKit and required browser polyfills.
 
 ```bash
-npm install @lazorkit/wallet buffer
+npm install @lazorkit/wallet @coral-xyz/anchor @solana/web3.js buffer
+```
+
+Sometimes during installation or when running the project, you might encounter "Module not found" errors for certain Solana-related packages. This typically happens when peer dependencies aren't automatically installed or when there are version conflicts.
+
+
+### Quick Fix: Install All Missing Dependencies
+
+If you're encountering multiple module errors, you can install all of these at once:
+
+```bash
+npm install @solana/kora @solana-program/token @solana/kit @solana/wallet-adapter-base @wallet-standard/wallet --legacy-peer-deps
 ```
 
 > **Why buffer?**
