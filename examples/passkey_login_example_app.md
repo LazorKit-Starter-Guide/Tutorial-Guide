@@ -406,7 +406,7 @@ export function PasskeyAuthFlow() {
   );
 }
 
----
+```
 
 ## 6. How the Authentication Flow Works
 
@@ -433,8 +433,6 @@ export function PasskeyAuthFlow() {
 * `disconnect()` clears session
 * UI resets to idle state
 
----
-
 ## Common Issues
 
 ### “Buffer is not defined”
@@ -442,7 +440,6 @@ export function PasskeyAuthFlow() {
 **Cause:** Missing polyfill
 **Fix:** Ensure the Buffer code exists in `layout.tsx`
 
----
 
 ### Passkey prompt doesn’t appear
 
@@ -452,7 +449,6 @@ export function PasskeyAuthFlow() {
 * `localhost` is fine for dev
 * Production must use HTTPS
 
----
 
 ### Wallet not connecting
 
@@ -462,7 +458,6 @@ export function PasskeyAuthFlow() {
 * Use Solana **devnet**
 * Check console errors
 
----
 
 ## Core Concepts Recap
 
@@ -472,7 +467,6 @@ export function PasskeyAuthFlow() {
 * **Smart Wallets** → created automatically, no seed phrases
 * **State-driven UI** → reflects wallet connection status
 
----
 
 ## Next Steps
 
@@ -485,7 +479,6 @@ Once this works, you can:
 * Add account recovery logic
 * Improve UX with skeleton loaders
 
----
 
 ## Final Thought
 
