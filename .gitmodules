@@ -1,0 +1,6 @@
+[submodule "LazorKit-Starter-Guide-Zealy-like-task-referral-project"]
+	path = LazorKit-Starter-Guide-Zealy-like-task-referral-project
+	url = https://github.com/LazorKit-Starter-Guide/LazorKit-Starter-Guide-Zealy-like-task-referral-project.git
+[submodule "example/zealyclone"]
+	path = example/zealyclone
+	url = https://github.com/LazorKit-Starter-Guide/LazorKit-Starter-Guide-Zealy-like-task-referral-project.git
