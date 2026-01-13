@@ -74,7 +74,9 @@ LazorKit-Starter-Guide/
 
 ## 🎥 Video Tutorials
 
-**[Watch: Mastering Passkey Authentication](https://youtu.be/D9QJItUdPY8?si=U8vKoUOaLIgKrWGc)**
+[![Watch the video](https://img.youtube.com/vi/D9QJItUdPY8/maxresdefault.jpg)](https://youtu.be/D9QJItUdPY8)
+
+### [Watch: Mastering Passkey Authentication powered by LazorKit](https://youtu.be/D9QJItUdPY8)
 
 
 ### Common Issues & Solutions
