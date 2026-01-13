@@ -1,6 +1,6 @@
 # Passkey Authentication with Lazorkit - Complete Tutorial
 
-## Introduction: The Future of Web3 Authentication
+## Introduction: How to create a passkey-based wallet
 
 Welcome to this comprehensive tutorial on implementing **passkey-based authentication** for Web3 applications using Lazorkit. This guide will walk you through building a modern, secure authentication system that eliminates passwords and seed phrases, providing users with a seamless login experience using biometrics or device PIN.
 
