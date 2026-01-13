@@ -35,7 +35,16 @@ Before starting, ensure you have:
 - A modern browser with WebAuthn support (Chrome 67+, Safari 13+, Firefox 60+)
 - Code editor (VS Code recommended)
 
- Quick Start
+ ## Quick Start
+
+### VIDEO TUTORIAL
+
+[![Watch the video](https://img.youtube.com/vi/D9QJItUdPY8/maxresdefault.jpg)](https://youtu.be/D9QJItUdPY8)
+
+### [Tutorial Video on Building a Passkey Auth Flow with lazorKit](https://youtu.be/D9QJItUdPY8)
+
+### DOCUMENTATION TUTORIAL
+
 Method 1: Clone and Run (Fastest)
 bash
 # Clone the repository
@@ -53,7 +62,6 @@ npm install
 ```bash
 npm run dev
 ```
-
 
 Method 2: Create from Scratch
 bash
